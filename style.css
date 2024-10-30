@@ -1,0 +1,35 @@
+body{
+     background-color:black
+
+}
+
+h2{
+    color: rgb(120, 77, 161);
+    
+}
+h1{
+    color: blueviolet;
+}
+
+ul{
+    color: aliceblue;
+
+}
+
+li{
+    color: indianred;
+}
+
+h4{
+    color: brown;
+}
+
+
+img{
+    display: block;
+    margin: auto;
+}
+
+ol{
+    text-align: center1;
+}
